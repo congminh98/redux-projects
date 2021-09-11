@@ -1,0 +1,13 @@
+section.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("../../assets/images/orange-bg.jpg") no-repeat center;
+    background-size: cover;
+    height: 15rem;
+    margin-bottom: 20px;
+    h1.banner__title {
+        color: #fff;
+        font-weight: bold;
+    }
+}
